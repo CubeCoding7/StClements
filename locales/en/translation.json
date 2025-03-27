@@ -1,0 +1,51 @@
+{
+	"hours": {
+		"title": "Hours",
+		"description": "Confession, Adoration and Office hours"
+	},
+	"ministries": {
+		"title": "Ministries",
+		"description": "Youth, Music, Outreach..."
+	},
+	"massTimes": {
+		"title": "Mass Times",
+		"weekdayMasses": "Weekday Masses",
+		"monday": "Monday",
+		"tuesday": "Tuesday",
+		"wednesday": "Wednesday",
+		"thursday": "Thursday",
+		"friday": "Friday",
+		"communionService": " Communion Service",
+		"fridayEvening": "Friday Evening",
+		"saturdayVigil": "Saturday (Sunday Vigil)",
+		"sunday": "Sunday",
+		"english": "English",
+		"spanish": "Spanish"
+	},
+	"navbar": {
+		"aboutUs": "About Us",
+		"sacraments": "Sacraments",
+		"ministries": "Ministries",
+		"faith": "Faith",
+		"vincent": "St. Vincent de Paul",
+		"onlineGiving": "Online Giving",
+		"bulletin": "Bulletin",
+		"howTo": "How To...",
+		"history": "History",
+		"staff": "Staff",
+		"massSchedule": "Mass Schedule",
+		"confessionTimes": "Confession Times",
+		"officeHours": "Office Hours",
+		"baptism": "Baptism",
+		"communion": "1st Communion",
+		"confirmation": "Confirmation",
+		"reconciliation": "Reconciliation",
+		"marriage": "Marriage",
+		"holyOrders": "Holy Orders",
+		"anointing": "Anointing of the Sick",
+		"ourReligion": "Our Religion",
+		"dailyReadings": "Daily Readings",
+		"english": "English",
+		"spanish": "Spanish"
+	}
+}

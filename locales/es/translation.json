@@ -1,0 +1,49 @@
+{
+	"hours": {
+		"title": "Horas",
+		"description": "Confesión, Adoración y Horario de Oficina"
+	},
+	"ministries": {
+		"title": "Ministerios",
+		"description": "Juventud, Música, Alcance..."
+	},
+	"massTimes": {
+		"title": "Horarios de Misa",
+		"weekdayMasses": "Misas de los Días Laborables",
+		"monday": "Lunes",
+		"tuesday": "Martes",
+		"wednesday": "Miércoles",
+		"thursday": "Jueves",
+		"friday": "Viernes",
+		"communionService": "Servicio de Comunión",
+		"fridayEvening": "Viernes en la Tarde",
+		"saturdayVigil": "Sábado (Vigilia Dominical)",
+		"sunday": "Domingo"
+	},
+	"navbar": {
+		"aboutUs": "Sobre Nosotros",
+		"sacraments": "Sacramentos",
+		"ministries": "Ministerios",
+		"faith": "Fe",
+		"vincent": "San Vicente de Paúl",
+		"onlineGiving": "Donaciones en Línea",
+		"bulletin": "Boletín",
+		"howTo": "Cómo...",
+		"history": "Historia",
+		"staff": "Personal",
+		"massSchedule": "Horario de Misas",
+		"confessionTimes": "Horarios de Confesión",
+		"officeHours": "Horario de Oficina",
+		"baptism": "Bautismo",
+		"communion": "Primera Comunión",
+		"confirmation": "Confirmación",
+		"reconciliation": "Reconciliación",
+		"marriage": "Matrimonio",
+		"holyOrders": "Orden Sagrado",
+		"anointing": "Unción de los Enfermos",
+		"ourReligion": "Nuestra Religión",
+		"dailyReadings": "Lecturas Diarias",
+		"english": "inglés",
+		"spanish": "español"
+	}
+}
